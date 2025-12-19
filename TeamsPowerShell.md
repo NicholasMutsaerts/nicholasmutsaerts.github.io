@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Mastering Microsoft Teams Administration with PowerShell"        # override site.title
+description: ""  # override site.description
+---
+
 As Microsoft Teams continues to evolve as a core collaboration tool in modern workplaces, IT administrators are constantly seeking efficient methods to manage Teams at scale. Let us delve into the essential steps to get started.
 
 Prerequisites: The first required steps lie in installing PowerShell 5.1 on Windows or PowerShell 7.2+ on all platforms. Install the [latest version of PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/installing-powershell) available for your operating system.
