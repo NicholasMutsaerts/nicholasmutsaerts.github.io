@@ -1,6 +1,8 @@
 ---
 layout: default
-title:
+title: "Windows 11 Network Troubleshooting Guide"        # override site.title
+description: ""  # override site.description
+---
 ---
 
 # Windows 11 Network Troubleshooting Guide
