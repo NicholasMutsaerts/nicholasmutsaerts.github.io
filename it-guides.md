@@ -36,9 +36,9 @@ Whether you are learning Windows 11, MacOs, Linux, Microsoft 365 administration,
 - [Zorin OS](https://help.zorin.com/docs/getting-started/install-zorin-os-in-virtualbox/) also provides a VirtualBox guide.
 - [Install and Configure Samba (Ubuntu Guide)](https://ubuntu.com/tutorials/install-and-configure-samba#1-overview)
 
-### Microsoft 365
+### Microsoft 365 Administration
 - Account setup & licensing (Coming soon)
-- Assign Licenses with Group-Based in Microsoft 365
+- Assign Licenses with Group-Based in Microsoft 365 (Check out the external link from LazyAdmin below)
 - MFA & Conditional Access (Coming soon)
 - Teams, OneDrive & SharePoint usage (Coming soon)
 - [Export Office 365 Mailbox](pdf/Export Office 365 Mailbox.pdf)
