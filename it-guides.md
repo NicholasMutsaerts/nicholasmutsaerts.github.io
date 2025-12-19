@@ -1,7 +1,3 @@
----
-title: IT Guides
----
-
 # IT Help Desk Guides
 
 As a System Administrator experienced across Windows, macOS, and Linux environments, I have spent the past few years creating user-friendly guides to support new hires, help desk staff, and hobbyists exploring technology for the first time.
