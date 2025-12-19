@@ -1,4 +1,10 @@
-# IT Help Desk Guides
+---
+layout: default
+title: "IT Help Desk Guides"        # override site.title
+description: ""  # override site.description
+---
+
+# Introduction
 
 As a System Administrator experienced across Windows, macOS, and Linux environments, I have spent the past few years creating user-friendly guides to support new hires, help desk staff, and hobbyists exploring technology for the first time.
 
