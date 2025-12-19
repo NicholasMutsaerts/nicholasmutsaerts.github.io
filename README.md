@@ -1,6 +1,6 @@
 Welcome to my IT portfolio and knowledge base.
 
-## About
+#### About
 System Administrator with 8+ years of experience supporting Microsoft 365, Entra ID/Azure AD, Intune, and hybrid Windows/macOS environments. Experienced in Tier 2 IT Support, endpoint management, and user training & documentation. I enjoy solving IT problems, improving security, and making systems easier for people to use.
 
 ---
@@ -8,7 +8,7 @@ System Administrator with 8+ years of experience supporting Microsoft 365, Entra
 Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Management, Networking & Security (MFA, Conditional Access), Hardware Troubleshooting, and Technical Documentation & Training.
 
 ---
-## Education
+#### Education
 
 | Credential                          | Institution                     | Completion |
 |-------------------------------------|---------------------------------|------------|
@@ -17,7 +17,7 @@ Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Manag
 | Diploma in Hispanic Studies         | University of Granada, Spain    | May 1997   |
 | Diploma in Management Studies       | Thompson Rivers University      | May 1995   |
 
-## Continuing Studies Courses (Post Secondary Institutions)
+### Continuing Studies Courses (Post Secondary Institutions)
 
 | Credential                 | Institution                 | Completion |
 |----------------------------|-----------------------------|------------|
@@ -27,7 +27,7 @@ Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Manag
 | Windows Desktop Support    | Vancouver Community College | Nov 2021   |
 | Active Directory           | Vancouver Community College | Nov 2021   |
 
-## Licenses & Certifications
+### Licenses & Certifications
 
 | Credential                                              | Institution                 | Completion      |
 |---------------------------------------------------------|-----------------------------|-----------------|
@@ -40,7 +40,7 @@ Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Manag
 | Microsoft Office 365 Administration                      | Udemy                       | Apr 2023     |
 
 ---
-## Work Experience
+### Work Experience
 **ICT System Administrator (_May 2021 - Present_)**
 - Administered a hybrid Microsoft 365 and Azure AD/Entra ID infrastructure for 100+ users across Windows and macOS environments.
 - Managed Intune compliance policies, identity lifecycles, device provisioning, and licensing, reducing configuration drift and security gaps.
@@ -62,18 +62,18 @@ Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Manag
 - Completed 40 hours of specialized hardware training in Microsoft and Linux environments. 
 
 ---
-## Projects
-### Connecting Classrooms (_June 2020 - November 2025_)
+### Projects
+#### Connecting Classrooms (_June 2020 - November 2025_)
 Connecting Classrooms is a highly supported online learning approach that enables 25+ First Nations schools in British Columbia to deliver advanced high school courses to over 200 students. Through real-time interactive video conferencing, students and teachers can engage in a virtual environment via Microsoft Teams and Logitech Video Conferencing.
 
-### First Nations Schools Connectivity Project (_October 2019 - November 2021_)
+#### First Nations Schools Connectivity Project (_October 2019 - November 2021_)
 The First Nations School Connectivity Project is aimed at leveraging Broadband Internet connectivity to deliver online program in B.C., such as Connecting Classrooms.
 
-### WAN/LAN Optimization First Nations Schools (_October 2019 - November 2021_)
+#### WAN/LAN Optimization First Nations Schools (_October 2019 - November 2021_)
 WAN/LAN optimization is a set of techniques and technologies that improve data transfer and performance across Wide Area Networks (WANS) and Local Area Networks (LANs). This process is used to overcome the adverse effects of latency, bandwidth limitations, and packet loss. It is especially useful for First Nation schools, where Internet bandwidth is limited.
 
 ---
-## [IT Help Desk Guides](it-guides.md)
+### [IT Help Desk Guides](it-guides.md)
 
 These IT Help Desk Guides are designed to create a clear, practical support for everyday technical tasks based on real-world help desk experience across Windows, macOS, Linux, and Microsoft 365. They focus on common issues, step-by-step solutions, and best practices to improve troubleshooting skills, build confidence, and streamline support workflows. A well-structured knowledge base helps resolve issues faster and enhances overall help desk efficiency. These quick reference documentation will be updated on a regular bases. 
 
