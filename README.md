@@ -1,7 +1,3 @@
----
-title: Home
----
-
 # Nicholas Mutsaerts
 **System Administrator | Tier 2 IT Support | Windows, macOS & Microsoft 365**
 
