@@ -1,6 +1,3 @@
-# Nicholas Mutsaerts
-**System Administrator | Tier 2 IT Support | Windows, macOS & Microsoft 365**
-
 Welcome to my IT portfolio and knowledge base.
 
 ## About
