@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "IT Help Desk Guides"        # override site.title
-description: "Welcome to my IT knowledge base."  # override site.description
+description: "Welcome to my IT knowledge base"  # override site.description
 ---
 
 # Introduction
@@ -21,7 +21,6 @@ Whether you are learning Windows 11, MacOs, Linux, Microsoft 365 administration,
 - [How to change DNS settings (Windows 11)](pdf/How to change DNS settings (Windows 11).pdf)
 - [Windows 11 Network Troubleshooting Guide](networking)
 - [Windows Package Manager (WINGET)](pdf/Windows Package Manager (WINGET).pdf)
-- User onboarding & system setup  (Coming soon)
 
 ### macOS
 - [Apple MacBook Essentials](pdf/Apple MacBook Essentials.pdf)
@@ -33,8 +32,8 @@ Whether you are learning Windows 11, MacOs, Linux, Microsoft 365 administration,
 - [How to troubleshoot networking issues in Linux](pdf/How to troubleshoot networking issues in Linux.pdf)
 - [How to keep your computer secure](pdf/How to keep your computer secure (Linux).pdf)
 - Virtual lab setup (Coming Soon)
--  VirtualBox is an essential tool for building and managing multiple virtual environments, allowing users to experiment without risk. Ubuntu offers a [walkthrough guide on creating an Ubuntu](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview) desktop virtual machine.
-- [Zorin OS](https://help.zorin.com/docs/getting-started/install-zorin-os-in-virtualbox/) also have a VirtualBox guide.
+-  VirtualBox enables safe experimentation with multiple virtual environments, and Ubuntu offers a [walkthrough guide on creating an Ubuntu](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview) desktop virtual machine.
+- [Zorin OS](https://help.zorin.com/docs/getting-started/install-zorin-os-in-virtualbox/) also provides a VirtualBox guide.
 - [Install and Configure Samba (Ubuntu Guide)](https://ubuntu.com/tutorials/install-and-configure-samba#1-overview)
 
 ### Microsoft 365
