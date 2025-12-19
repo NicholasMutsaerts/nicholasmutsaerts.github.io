@@ -85,5 +85,5 @@ These IT Help Desk Guides are designed to create a clear, practical support for 
 
 ## Connect with Me
 <a href="https://www.linkedin.com/in/nicholasmutsaerts/">
-  <img src="images/LinkedIn_logo.png" alt="LinkedIn" width="16">
+  <img src="images/LinkedIn_logo.png" alt="LinkedIn" width="32">
 </a>
