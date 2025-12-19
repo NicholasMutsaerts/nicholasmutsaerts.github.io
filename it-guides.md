@@ -55,6 +55,7 @@ Whether you are learning Windows 11, MacOs, Linux, Microsoft 365 administration,
 - [Adobe PDF and Alternative PDF Readers](pdf/adobe.pdf)
 - (More comming soon)
 
+---
 ### Cheatsheets
 - [Basic Linux Cheatsheet](cheatsheet/Linux Cheatsheet.pdf)
 - [Complete Ubuntu Cheatsheet](cheatsheet/Ubuntu Linux Cheatsheet.pdf)
@@ -63,6 +64,7 @@ Whether you are learning Windows 11, MacOs, Linux, Microsoft 365 administration,
 
 #### Disclaimer
 Use Windows 11, macOS, and Linux commands at your own risk. While accuracy is a priority, incorrect administrative actions can cause data loss or service disruption. Always back up important data and consult a qualified IT professional if you are unsure.
+---
 
 ### External Links
 As technology continues to evolve at a rapid pace, IT professionals need to stay up-to-date on the latest tools, resources, and best practices. This collection of external links is designed to serve as a go-to reference for IT professionals seeking to expand their knowledge and expertise. Each link offers a unique perspective or solution that can be applied in real-world scenarios. 
