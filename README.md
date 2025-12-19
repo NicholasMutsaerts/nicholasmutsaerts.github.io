@@ -75,13 +75,14 @@ WAN/LAN optimization is a set of techniques and technologies that improve data t
 
 These IT Help Desk Guides are designed to create a clear, practical support for everyday technical tasks based on real-world help desk experience across Windows, macOS, Linux, and Microsoft 365. They focus on common issues, step-by-step solutions, and best practices to improve troubleshooting skills, build confidence, and streamline support workflows. A well-structured knowledge base helps resolve issues faster and enhances overall help desk efficiency. These quick reference documentation will be updated on a regular bases. 
 
+---
 #### Notes
 
 - All guides are meant for **educational purposes**.  
 - Use commands carefully; incorrect actions may cause data loss or service disruption.  
 - Always back up important data and consult IT professionals if unsure.
 
-## Connect with Me
+### Connect with Me
 <a href="https://www.linkedin.com/in/nicholasmutsaerts/">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
 </a>
