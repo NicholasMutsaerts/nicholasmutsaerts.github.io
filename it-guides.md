@@ -12,6 +12,7 @@ I am passionate about empowering users through clear guidance and technical trai
 
 Whether you are learning Windows 11, MacOs, Linux, Microsoft 365 administration, building virtual labs, or strengthening your foundational IT skills, I hope these guides become a helpful starting point on your journey. 
 
+> 📌 Guides will be published as downloadable PDFs.
 ---
 
 ## Available Guides
@@ -64,18 +65,17 @@ Whether you are learning Windows 11, MacOs, Linux, Microsoft 365 administration,
 #### Disclaimer
 Use Windows 11, macOS, and Linux commands at your own risk. While accuracy is a priority, incorrect administrative actions can cause data loss or service disruption. Always back up important data and consult a qualified IT professional if you are unsure.
 
-### External Links (macOS, Windows 11, and Ubuntu Focus)
+### External Links
+As technology continues to evolve at a rapid pace, IT professionals need to stay up-to-date on the latest tools, resources, and best practices. This collection of external links is designed to serve as a go-to reference for IT professionals seeking to expand their knowledge and expertise. Each link offers a unique perspective or solution that can be applied in real-world scenarios. 
+
+### Windows 11, macOS, and Ubuntu Focus
 -	[Getting started with MacOS](https://support.apple.com/en-ca/guide/mac-help/mchl3a2c2cb0/mac)
 - [Apple Learning Center](https://education.apple.com/learning-center)
 - [Apple YouTube Channel](https://www.youtube.com/user/Apple/videos)
 - [Meet Windows 11: The Basics](https://support.microsoft.com/en-us/meetwindows11)
 - [Ubuntu Desktop Guide (by Ubuntu)](https://help.ubuntu.com/lts/ubuntu-help/index.html.en)
 
-### External Links (Microsoft 365 Focus)
+### Microsoft 365 Focus
 - [Assign Licenses with Group-Based in Microsoft 365](https://lazyadmin.nl/office-365/office-365-assign-license-to-group/)
 - [Best Practice to Secure Office 365](https://lazyadmin.nl/office-365/best-practice-to-secure-office-365/)
 - [The Best PowerShell Cheat Sheet](https://lazyadmin.nl/powershell/powershell-cheat-sheet/)
-
-📄 *Download coming soon*
-
-> 📌 Guides will be published as downloadable PDFs.
