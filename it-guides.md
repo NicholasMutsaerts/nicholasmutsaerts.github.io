@@ -38,12 +38,12 @@ Whether you are learning Windows 11, MacOs, Linux, Microsoft 365 administration,
 
 ### Microsoft 365 Administration
 - Account setup & licensing (Coming soon)
-- Assign Licenses with Group-Based in Microsoft 365 (Check out the external link from LazyAdmin below)
 - MFA & Conditional Access (Coming soon)
 - Teams, OneDrive & SharePoint usage (Coming soon)
 - [Export Office 365 Mailbox](pdf/Export Office 365 Mailbox.pdf)
 - [Microsoft 365 Exchange Online](pdf/Microsoft 365 Exchange Online.pdf)
 - [Microsoft 365 Exchange Commands Cheatsheet](cheatsheet/Microsoft 365 Exchange Commands.pdf)
+- Mastering Microsoft Teams Administration with PowerShell(TeamsPowerShell.md)
 
 ### Windows Server & Networking
 - [Understanding DNS and How to Optimize It for Better Performance](pdf/Understanding DNS.pdf)
@@ -92,7 +92,7 @@ As technology continues to evolve at a rapid pace, IT professionals need to stay
 ### Microsoft 365 Outlook
 - [Access another person’s mailbox](https://support.microsoft.com/en-us/office/access-another-person-s-mailbox-a909ad30-e413-40b5-a487-0ea70b763081?WT.mc_id=365AdminCSH_Smc)
 - [Configuring e-mail forwarding for a mailbox](https://docs.microsoft.com/en-us/exchange/recipients/user-mailboxes/email-forwarding?view=exchserver-2019)
-- [How to setup Automatic reply in Outlook[](pdf/Microsoft Outlook 365 - Set Up auto-reply.pdf)
+- [How to setup Automatic reply in Outlook](pdf/Microsoft Outlook 365 - Set Up auto-reply.pdf)
 - [Sharing your Microsoft Outlook Calendar](https://support.microsoft.com/en-us/topic/sharing-your-calendar-17b9026c-8299-4f8a-8da7-1b78463b8d68)
 - [Use the Scheduling Assistant and Room Finder for meetings in Outlook](https://support.microsoft.com/en-gb/office/use-the-scheduling-assistant-and-room-finder-for-meetings-in-outlook-2e00ac07-cef1-47c8-9b99-77372434d3fa)
 
