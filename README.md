@@ -8,7 +8,7 @@ System Administrator with 8+ years of experience supporting Microsoft 365, Entra
 Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Management, Networking & Security (MFA, Conditional Access), Hardware Troubleshooting, and Technical Documentation & Training.
 
 ---
-#### Education
+### Education
 
 | Credential                          | Institution                     | Completion |
 |-------------------------------------|---------------------------------|------------|
