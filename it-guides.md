@@ -12,7 +12,6 @@ I am passionate about empowering users through clear guidance and technical trai
 
 Whether you are learning Windows 11, MacOs, Linux, Microsoft 365 administration, building virtual labs, or strengthening your foundational IT skills, I hope these guides become a helpful starting point on your journey. 
 
-> 📌 Guides will be published as downloadable PDFs.
 ---
 
 ## Available Guides
