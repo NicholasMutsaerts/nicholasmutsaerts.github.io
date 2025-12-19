@@ -82,6 +82,7 @@ These IT Help Desk Guides are designed to create a clear, practical support for 
 - Use commands carefully; incorrect actions may cause data loss or service disruption.  
 - Always back up important data and consult IT professionals if unsure.
 
+---
 ### Connect with Me
 <a href="https://www.linkedin.com/in/nicholasmutsaerts/">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
