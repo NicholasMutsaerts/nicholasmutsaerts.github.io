@@ -64,10 +64,13 @@ Whether you are learning Windows 11, MacOs, Linux, Microsoft 365 administration,
 
 #### Disclaimer
 Use Windows 11, macOS, and Linux commands at your own risk. While accuracy is a priority, incorrect administrative actions can cause data loss or service disruption. Always back up important data and consult a qualified IT professional if you are unsure.
+
 ---
 
-### External Links
+## External Links
 As technology continues to evolve at a rapid pace, IT professionals need to stay up-to-date on the latest tools, resources, and best practices. This collection of external links is designed to serve as a go-to reference for IT professionals seeking to expand their knowledge and expertise. Each link offers a unique perspective or solution that can be applied in real-world scenarios. 
+
+---
 
 ### Windows 11, macOS, and Ubuntu Focus
 -	[Getting started with MacOS](https://support.apple.com/en-ca/guide/mac-help/mchl3a2c2cb0/mac)
@@ -76,11 +79,15 @@ As technology continues to evolve at a rapid pace, IT professionals need to stay
 - [Meet Windows 11: The Basics](https://support.microsoft.com/en-us/meetwindows11)
 - [Ubuntu Desktop Guide (by Ubuntu)](https://help.ubuntu.com/lts/ubuntu-help/index.html.en)
 
+---
+
 ### Adobe Acrobat Pro, Microsoft 365, and Zoom User Guides
 - [Adobe Acrobat Pro Official Tutorials](https://www.adobe.com/products/acrobat.html)
 - [Microsoft 365 The Basics Quick Reference Guide](pdf/Microsoft 365 The Basics Guide.pdf)
 - [Microsoft 365 Official Documentation](https://docs.microsoft.com/en-us/microsoft-365/)
 - [Zoom Official Support Center](https://support.zoom.us/hc/en-us)
+
+---
 
 ### Microsoft 365 Outlook
 - [Access another person’s mailbox](https://support.microsoft.com/en-us/office/access-another-person-s-mailbox-a909ad30-e413-40b5-a487-0ea70b763081?WT.mc_id=365AdminCSH_Smc)
@@ -88,6 +95,8 @@ As technology continues to evolve at a rapid pace, IT professionals need to stay
 - [How to setup Automatic reply in Outlook[](pdf/Microsoft Outlook 365 - Set Up auto-reply.pdf)
 - [Sharing your Microsoft Outlook Calendar](https://support.microsoft.com/en-us/topic/sharing-your-calendar-17b9026c-8299-4f8a-8da7-1b78463b8d68)
 - [Use the Scheduling Assistant and Room Finder for meetings in Outlook](https://support.microsoft.com/en-gb/office/use-the-scheduling-assistant-and-room-finder-for-meetings-in-outlook-2e00ac07-cef1-47c8-9b99-77372434d3fa)
+
+---
 
 ### Microsoft 365 Administration
 - [Assign Licenses with Group-Based in Microsoft 365](https://lazyadmin.nl/office-365/office-365-assign-license-to-group/)
