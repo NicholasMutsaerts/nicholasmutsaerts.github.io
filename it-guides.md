@@ -52,6 +52,7 @@ Whether you are learning Windows 11, MacOs, Linux, Microsoft 365 administration,
 
 ### General Guides
 - [Adobe PDF and Alternative PDF Readers](pdf/adobe.pdf)
+- [Best Practices for Effective IT Onboarding: A Guide for New Hires](IT-Onboarding)
 - (More comming soon)
 
 ---
