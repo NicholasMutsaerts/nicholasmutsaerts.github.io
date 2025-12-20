@@ -38,7 +38,7 @@ These IT Help Desk Guides provide clear, practical support for everyday technica
 - [Export Office 365 Mailbox](pdf/Export Office 365 Mailbox.pdf)
 - [Microsoft 365 Exchange Online](pdf/Microsoft 365 Exchange Online.pdf)
 - [Microsoft 365 Exchange Commands Cheatsheet](cheatsheet/Microsoft 365 Exchange Commands.pdf)
-- Mastering Microsoft Teams Administration with PowerShell(TeamsPowerShell.md)
+- [Mastering Microsoft Teams Administration with PowerShell](TeamsPowerShell.md)
 
 ### Windows Server & Networking
 - [Understanding DNS and How to Optimize It for Better Performance](pdf/Understanding DNS.pdf)
