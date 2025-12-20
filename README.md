@@ -32,14 +32,11 @@ Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Manag
 
 | Credential                                           | Institution                 |
 |------------------------------------------------------|-----------------------------|
-| **— Canadian Red Cross —**                           |                             |
 | Standard First Aid & CPR/AED                         | Canadian Red Cross          |
-| **— LinkedIn Learning Community —**                  |                             |
 | Applying ITIL 4 Foundation Concepts                  | LinkedIn Learning Community |
 | Cloud Management with Microsoft Intune               | LinkedIn Learning Community |
 | Introduction to Microsoft Exchange Online            | LinkedIn Learning Community |
 | Microsoft 365: Administration                        | LinkedIn Learning Community |
-| **— Udemy —**                                        |                             |
 | Microsoft 365 Administration Training                | Udemy                       |
 | Microsoft Intune for Apple macOS Training            | Udemy                       |
 | Microsoft Office 365 Administration                  | Udemy                       |
