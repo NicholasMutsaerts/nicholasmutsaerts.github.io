@@ -1,10 +1,9 @@
 ---
 layout: default
 title: "IT Help Desk Guides"        # override site.title
-description: ""  # override site.description
+description: "Streamlining Windows 11 Application Management"  # override site.description
 ---
 
-### Streamlining Windows 11 Application Management
 Every IT professional knows the challenges of rebuilding a system or configuring a new device. Outdated software remains one of the most common attack vectors for malware, making automation essential.
 
 Tools like **Ninite**, **Patch My PC**, and **WinGet** streamline installations, reduce security risks, and eliminate unnecessary bloat — saving IT teams countless hours while improving security posture.
