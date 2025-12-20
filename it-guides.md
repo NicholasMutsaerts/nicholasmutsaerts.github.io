@@ -12,9 +12,9 @@ These IT Help Desk Guides provide clear, practical support for everyday technica
 ### Windows 11
 - [Common Help Desk fixes](pdf/Windows 11 Essential IT Troublehooting.pdf)
 - [How to change DNS settings (Windows 11)](pdf/How to change DNS settings (Windows 11).pdf)
+- [Streamlining Windows 11 Application Management](Windows-11-app-management.md)
 - [Windows 11 Network Troubleshooting Guide](networking)
 - [Windows Package Manager (WINGET)](pdf/Windows Package Manager (WINGET).pdf)
-- [Streamlining Windows 11 Application Management](Windows-11-app-management.md)
 
 ### macOS
 - [Apple MacBook Essentials](pdf/Apple MacBook Essentials.pdf)
