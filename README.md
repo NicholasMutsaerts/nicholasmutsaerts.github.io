@@ -8,39 +8,45 @@ Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Manag
 ---
 ### Education
 
-| Credential                          | Institution                     | Completion |
-|-------------------------------------|---------------------------------|------------|
-| ITOP Certificate                    | Vancouver Community College     | May 2021   |
-| Diploma in Business Computing       | Capilano University             | May 2000   |
-| Diploma in Hispanic Studies         | University of Granada, Spain    | May 1997   |
-| Diploma in Management Studies       | Thompson Rivers University      | May 1995   |
+| Credential                        | Institution                   |
+|----------------------------------|-------------------------------|
+| ITOP Certificate                 | Vancouver Community College   |
+| Diploma in Business Computing    | Capilano University           |
+| Diploma in Hispanic Studies      | University of Granada, Spain  |
+| Diploma in Management Studies    | Thompson Rivers University    |
 
 ---
 ### Continuing Studies Courses (Post Secondary Institutions)
 
-| Credential                 | Institution                 | Completion |
-|----------------------------|-----------------------------|------------|
-| Network Defense Essentials | BCIT                        | July 2025  |
-| Ethical Hacking            | BCIT                        | Nov 2024   |
-| PowerShell                 | Vancouver Community College | Nov 2022   |
-| Windows Desktop Support    | Vancouver Community College | Nov 2021   |
-| Active Directory           | Vancouver Community College | Nov 2021   |
+| Credential                  | Institution                 |
+|----------------------------|-----------------------------|
+| **— BCIT —**               |                             |
+| Ethical Hacking            | BCIT                        |
+| Network Defense Essentials | BCIT                        |
+| **— Vancouver Community College —** |                   |
+| Active Directory           | Vancouver Community College |
+| PowerShell                 | Vancouver Community College |
+| Security Fundamentals      | Vancouver Community College |
+| Windows Desktop Support    | Vancouver Community College |
 
 ---
 ### Licenses & Certifications
 
-| Credential                                          | Institution                 | Completion |
-|-----------------------------------------------------|-----------------------------|------------|
-| Standard First Aid & CPR/AED                        | Canadian Red Cross          | Dec 2025   |
-| Applying ITIL 4 Foundation Concepts                 | LinkedIn Learning Community | Nov 2025   |
-| Cloud Management with Microsoft Intune              | LinkedIn Learning Community | Nov 2025   |
-| Introduction to Microsoft Exchange Online           | LinkedIn Learning Community | Nov 2025   |
-| Microsoft 365: Administration                       | LinkedIn Learning Community | Nov 2025   |
-| SharePoint Admin and Site Owner: Comprehensive Guide| Udemy                       | Dec 2024   |
-| Microsoft Intune for Apple macOS Training           | Udemy                       | Nov 2024   |
-| Microsoft 365 Administration Training               | Udemy                       | Feb 2024   |
-| The Ubuntu Linux Desktop User Guide                 | Udemy                       | Feb 2024   |
-| Microsoft Office 365 Administration                 | Udemy                       | Apr 2023   |
+| Credential                                           | Institution                 |
+|------------------------------------------------------|-----------------------------|
+| **— Canadian Red Cross —**                           |                             |
+| Standard First Aid & CPR/AED                         | Canadian Red Cross          |
+| **— LinkedIn Learning Community —**                  |                             |
+| Applying ITIL 4 Foundation Concepts                  | LinkedIn Learning Community |
+| Cloud Management with Microsoft Intune               | LinkedIn Learning Community |
+| Introduction to Microsoft Exchange Online            | LinkedIn Learning Community |
+| Microsoft 365: Administration                        | LinkedIn Learning Community |
+| **— Udemy —**                                        |                             |
+| Microsoft 365 Administration Training                | Udemy                       |
+| Microsoft Intune for Apple macOS Training            | Udemy                       |
+| Microsoft Office 365 Administration                  | Udemy                       |
+| SharePoint Admin and Site Owner: Comprehensive Guide | Udemy                       |
+| The Ubuntu Linux Desktop User Guide                  | Udemy                       |
 
 ---
 ### Work Experience
