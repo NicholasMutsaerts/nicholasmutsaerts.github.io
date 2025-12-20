@@ -75,6 +75,9 @@ Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Manag
 #### Connecting Classrooms (_June 2020 - November 2025_)
 Connecting Classrooms is a highly supported online learning approach that enables 25+ First Nations schools in British Columbia to deliver advanced high school courses to over 200 students. Through real-time interactive video conferencing, students and teachers can engage in a virtual environment via Microsoft Teams and Logitech Video Conferencing.
 
+#### IT Inventory Management (_October 2019 - November 2025_)
+Designed and maintained a centralized IT asset inventory system that improved visibility, compliance, reporting accuracy, and incident response while reducing redundant purchasing.
+
 #### First Nations Schools Connectivity Project (_October 2019 - November 2021_)
 The First Nations School Connectivity Project is aimed at leveraging Broadband Internet connectivity to deliver online program in B.C., such as Connecting Classrooms.
 
