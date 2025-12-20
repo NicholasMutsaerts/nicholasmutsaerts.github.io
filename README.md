@@ -1,11 +1,11 @@
 ### About Me
 System Administrator with 8+ years of experience supporting Microsoft 365, Entra ID/Azure AD, Intune, and hybrid Windows/macOS environments. Experienced in Tier 2 IT Support, endpoint management, and user training & documentation. I enjoy solving IT problems, improving security, and making systems easier for people to use.
 
----
+--
 #### Core Skills: 
 Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Management, Networking & Security (MFA, Conditional Access), Hardware Troubleshooting, and Technical Documentation & Training.
 
----
+--
 ### Education
 
 | Credential                          | Institution                     | Completion |
@@ -15,6 +15,7 @@ Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Manag
 | Diploma in Hispanic Studies         | University of Granada, Spain    | May 1997   |
 | Diploma in Management Studies       | Thompson Rivers University      | May 1995   |
 
+--
 ### Continuing Studies Courses (Post Secondary Institutions)
 
 | Credential                 | Institution                 | Completion |
@@ -25,6 +26,7 @@ Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Manag
 | Windows Desktop Support    | Vancouver Community College | Nov 2021   |
 | Active Directory           | Vancouver Community College | Nov 2021   |
 
+--
 ### Licenses & Certifications
 
 | Credential                                          | Institution                 | Completion |
