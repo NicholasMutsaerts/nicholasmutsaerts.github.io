@@ -46,16 +46,16 @@ Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Manag
 ### Work Experience
 **ICT System Administrator (_May 2021 - Present_)**
 - Administered a hybrid Microsoft 365 and Azure AD/Entra ID infrastructure for 100+ users across Windows and macOS environments.
-- Managed Intune compliance policies, identity lifecycles, device provisioning, and licensing, reducing configuration drift and security gaps.
+- Assisted with network operations, including Fortinet firewall configuration, VPN management, and security monitoring using Field Effect, contributing to faster threat detection and improved network resilience.
 - Delivered Tier 2 technical support through ConnectWise and HappyFox, achieving a 95% ticket resolution rate and ensuring reliable network access via FortiGate VPN.
 - Developed end-user training and documentation for Microsoft 365 and collaboration tools, boosting adoption and reducing recurring support requests by 30%.
-- Assisted with network operations, including Fortinet firewall configuration, VPN management, and security monitoring using Field Effect, contributing to faster threat detection and improved network resilience.
--  Supported and optimized 25+ network printers (Brother, Xerox) with proactive monitoring and driver updates, decreasing printer-related downtime by 30%.
+- Managed Intune compliance policies, identity lifecycles, device provisioning, and licensing, reducing configuration drift and security gaps.
+- Supported and optimized 25+ network printers (Brother, Xerox) with proactive monitoring and driver updates, decreasing printer-related downtime by 30%.
 
 **Regional ICT Support Assistant (_October 2019 - May 2021_)**
-- Provided technical support and maintenance for 30+ school networks, improving reliability and minimizing service disruptions.
 - Delivered end-user training for 100+ educators and staff on Microsoft 365 and collaboration tools, enhancing digital literacy and productivity.
 - Developed and maintained a centralized IT knowledge base, reducing repeat support requests by 35%.
+- Provided technical support and maintenance for 30+ school networks, improving reliability and minimizing service disruptions.
 - Supported and administered Microsoft 365 applications (Teams, SharePoint, OneDrive, Outlook) for 100+ users, improving collaboration reliability and reducing access-related incidents by 25%.
 
 **Regional ICT Support Assistant (_October 2019 - May 2021_)**
