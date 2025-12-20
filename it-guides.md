@@ -25,6 +25,7 @@ These IT Help Desk Guides provide clear, practical support for everyday technica
 - [Ubuntu Essentials Guide](pdf/Ubuntu Essentials Guide.pdf)
 - [How to troubleshoot networking issues in Linux](pdf/How to troubleshoot networking issues in Linux.pdf)
 - [How to keep your computer secure](pdf/How to keep your computer secure (Linux).pdf)
+- [Understanding File Management in Linux](Windows-11-app-management.md)
 - Virtual lab setup (Coming Soon)
 -  VirtualBox enables safe experimentation with multiple virtual environments, and Ubuntu offers a [walkthrough guide on creating an Ubuntu](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview) desktop virtual machine.
 - [Zorin OS](https://help.zorin.com/docs/getting-started/install-zorin-os-in-virtualbox/) also provides a VirtualBox guide.
