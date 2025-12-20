@@ -20,10 +20,8 @@ Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Manag
 
 | Credential                  | Institution                 |
 |----------------------------|-----------------------------|
-| **— BCIT —**               |                             |
 | Ethical Hacking            | BCIT                        |
 | Network Defense Essentials | BCIT                        |
-| **— Vancouver Community College —** |                   |
 | Active Directory           | Vancouver Community College |
 | PowerShell                 | Vancouver Community College |
 | Security Fundamentals      | Vancouver Community College |
