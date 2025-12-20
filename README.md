@@ -27,15 +27,18 @@ Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Manag
 
 ### Licenses & Certifications
 
-| Credential                                              | Institution                 | Completion      |
-|---------------------------------------------------------|-----------------------------|-----------------|
-| Standard First Aid & CPR/AED                             | Canadian Red Cross          | Dec 2025  |
-| Applying ITIL 4 Foundation Concepts                      | LinkedIn Learning Community | Nov 2025  |
-| Cloud Management with Microsoft Intune                   | LinkedIn Learning Community | Nov 2025  |
-| SharePoint Admin and Site Owner: Comprehensive Guide     | Udemy                       | Dec 2024  |
-| Microsoft 365 Administration Training                    | Udemy                       | Feb 2024  |
-| The Ubuntu Linux Desktop User Guide                      | Udemy                       | Feb 2024  |
-| Microsoft Office 365 Administration                      | Udemy                       | Apr 2023     |
+| Credential                                          | Institution                 | Completion |
+|-----------------------------------------------------|-----------------------------|------------|
+| Standard First Aid & CPR/AED                        | Canadian Red Cross          | Dec 2025   |
+| Applying ITIL 4 Foundation Concepts                 | LinkedIn Learning Community | Nov 2025   |
+| Cloud Management with Microsoft Intune              | LinkedIn Learning Community | Nov 2025   |
+| Introduction to Microsoft Exchange Online           | LinkedIn Learning Community | Nov 2025   |
+| Microsoft 365: Administration                       | LinkedIn Learning Community | Nov 2025   |
+| SharePoint Admin and Site Owner: Comprehensive Guide| Udemy                       | Dec 2024   |
+| Microsoft Intune for Apple macOS Training           | Udemy                       | Nov 2024   |
+| Microsoft 365 Administration Training               | Udemy                       | Feb 2024   |
+| The Ubuntu Linux Desktop User Guide                 | Udemy                       | Feb 2024   |
+| Microsoft Office 365 Administration                 | Udemy                       | Apr 2023   |
 
 ---
 ### Work Experience
