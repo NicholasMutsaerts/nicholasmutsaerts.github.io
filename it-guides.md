@@ -4,12 +4,10 @@ title: "IT Help Desk Guides"        # override site.title
 description: "Welcome to my IT knowledge base"  # override site.description
 ---
 
-# IT Technical Support Guides
-
 These IT Help Desk Guides provide clear, practical support for everyday technical tasks, drawing on real-world experience across Windows, macOS, Linux, and Microsoft 365. They highlight common issues, step-by-step resolutions, and proven best practices to strengthen troubleshooting skills, build confidence, and streamline support workflows. A well‑structured knowledge base accelerates issue resolution and enhances overall help desk efficiency. These quick‑reference documents will be updated regularly to ensure they remain accurate and relevant.
 
 ---
-## Available Guides
+## IT Technical Support Guides
 
 ### Windows 11
 - [Common Help Desk fixes](pdf/Windows 11 Essential IT Troublehooting.pdf)
