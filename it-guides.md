@@ -4,16 +4,11 @@ title: "IT Help Desk Guides"        # override site.title
 description: "Welcome to my IT knowledge base"  # override site.description
 ---
 
-# Introduction
+# IT Technical Support Guides
 
-As a System Administrator experienced across Windows, macOS, and Linux environments, I have spent the past few years creating user-friendly guides to support new hires, help desk staff, and hobbyists exploring technology for the first time.
-
-I am passionate about empowering users through clear guidance and technical training. Here, I am excited to share a consolidated version of those resources that brings together my previous LinkedIn posts and articles into one downloadable collection. 
-
-Whether you are learning Windows 11, MacOs, Linux, Microsoft 365 administration, building virtual labs, or strengthening your foundational IT skills, I hope these guides become a helpful starting point on your journey. 
+These IT Help Desk Guides provide clear, practical support for everyday technical tasks, drawing on real-world experience across Windows, macOS, Linux, and Microsoft 365. They highlight common issues, step-by-step resolutions, and proven best practices to strengthen troubleshooting skills, build confidence, and streamline support workflows. A well‑structured knowledge base accelerates issue resolution and enhances overall help desk efficiency. These quick‑reference documents will be updated regularly to ensure they remain accurate and relevant.
 
 ---
-
 ## Available Guides
 
 ### Windows 11
