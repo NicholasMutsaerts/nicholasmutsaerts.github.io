@@ -8,12 +8,12 @@ Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Manag
 ---
 ### Education
 
-| Credential                        | Institution                   |
-|----------------------------------|-------------------------------|
-| ITOP Certificate                 | Vancouver Community College   |
-| Diploma in Business Computing    | Capilano University           |
-| Diploma in Hispanic Studies      | University of Granada, Spain  |
-| Diploma in Management Studies    | Thompson Rivers University    |
+| Credential                                                     | Institution                     |
+|---------------------------------------------------------------|---------------------------------|
+| Information Technology Operations Professional Certificate    | Vancouver Community College     |
+| Diploma in Business Computing                                 | Capilano University             |
+| Diploma in Hispanic Studies                                   | University of Granada, Spain    |
+| Diploma in Management Studies                                 | Thompson Rivers University      |
 
 ---
 ### Continuing Studies Courses (Post Secondary Institutions)
