@@ -1,7 +1,4 @@
 ---
-title: Home
----
-
 <p align="center">
   <a href="/">Home</a> •
   <a href="/it-guides.md">IT Guides</a> •
