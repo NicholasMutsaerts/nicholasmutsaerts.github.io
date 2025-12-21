@@ -6,7 +6,7 @@ description: "Microsoft 365 Administration | Tier 2 IT Support | Windows, macOS 
 ---
 [Home](README.md)
 
-**System Administrator with 8+ years supporting Microsoft 365, Azure AD/Entra ID, Intune, and hybrid Windows/macOS environments. Skilled in Windows Server, Active Directory, PowerShell, Networking, Security, and A+ hardware. Passionate about solving IT challenges, improving security, and optimizing systems for users.**
+System Administrator with 8+ years supporting Microsoft 365, Azure AD/Entra ID, Intune, and hybrid Windows/macOS environments. Skilled in Windows Server, Active Directory, PowerShell, Networking, Security, and A+ hardware. Passionate about solving IT challenges, improving security, and optimizing systems for users.
 
 ---
 #### Core Skills
