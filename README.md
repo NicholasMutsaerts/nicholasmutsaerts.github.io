@@ -1,8 +1,8 @@
-**Welcome to my GitHub website**
+#**Welcome to my GitHub website**
 
 This repository serves as a centralized hub for my **System Administration portfolio** and a growing collection of **practical IT guides**. It is designed to showcase real-world experience, technical documentation, and hands-on solutions used in enterprise and small-to-medium IT environments.
 
-## What You’ll Find Here
+### What You Will Find Here
 
 ### [IT Help Desk Guides](it-guides.md)
 Step-by-step documentation covering system administration tasks, troubleshooting procedures, configuration guides, and best practices across **Windows**, **macOS**, **Microsoft 365**, and related technologies.
