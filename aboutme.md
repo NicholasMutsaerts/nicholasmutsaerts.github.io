@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Nicholas Mutsaerts"        # override site.title
-description: "About Me"  # override site.description
+description: "Portfolio"  # override site.description
 
 ---
 [Home](README.md)
