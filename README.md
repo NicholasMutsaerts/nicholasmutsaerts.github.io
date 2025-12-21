@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="/">readme.md">Home</a>
+  <a href="/readme.md">Home</a>
   <a href="/it-guides.md">IT Guides</a> •
   <a href="/aboutme.md">About Me</a>
 </p>
