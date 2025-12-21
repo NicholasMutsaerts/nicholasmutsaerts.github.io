@@ -1,4 +1,3 @@
----
 <p align="center">
   <a href="/readme.md">Home</a> •
   <a href="/it-guides.md">IT Guides</a> •
