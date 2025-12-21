@@ -6,49 +6,23 @@ description: "Microsoft 365 Administration | Tier 2 IT Support | Windows, macOS 
 ---
 [Home](README.md)
 
-System Administrator with 8+ years of experience supporting Microsoft 365, Entra ID/Azure AD, Intune, and hybrid Windows/macOS environments. Experienced in Tier 2 IT Support, endpoint management, and user training & documentation. I enjoy solving IT problems, improving security, and making systems easier for people to use.
+**System Administrator | 8+ years supporting Microsoft 365, Azure AD/Entra ID, Intune, and hybrid Windows/macOS environments. Skilled in Windows Server, Active Directory, PowerShell, Networking, Security, and A+ hardware. Passionate about solving IT challenges, improving security, and optimizing systems for users.**
 
 ---
-#### Core Skills: 
-Microsoft 365 Administration, Azure AD & Active Directory, Intune Endpoint Management, Networking & Security (MFA, Conditional Access), Hardware Troubleshooting, and Technical Documentation & Training.
+#### Core Skills
+Microsoft 365 Administration, Windows Server & Active Directory, Windows Desktop Support, PowerShell, Networking & Security (MFA, Conditional Access), A+ Hardware Troubleshooting, Intune Endpoint Management, Technical Documentation & Training
 
 ---
 ### Education
 
-| Credential                                                     | Institution                     |
-|---------------------------------------------------------------|---------------------------------|
-| Information Technology Operations Professional Certificate    | Vancouver Community College     |
-| Diploma in Business Computing                                 | Capilano University             |
-| Diploma in Hispanic Studies                                   | University of Granada, Spain    |
-| Diploma in Management Studies                                 | Thompson Rivers University      |
-
----
-### Continuing Studies Courses (Post Secondary Institutions)
-
-| Credential                  | Institution                 |
-|----------------------------|-----------------------------|
-| Ethical Hacking            | BCIT                        |
-| Network Defense Essentials | BCIT                        |
-| Active Directory           | Vancouver Community College |
-| PowerShell                 | Vancouver Community College |
-| Security Fundamentals      | Vancouver Community College |
-| Windows Desktop Support    | Vancouver Community College |
-
----
-### Licenses & Certifications
-
-| Credential                                           | Institution                 |
-|------------------------------------------------------|-----------------------------|
-| Standard First Aid & CPR/AED                         | Canadian Red Cross          |
-| Applying ITIL 4 Foundation Concepts                  | LinkedIn Learning Community |
-| Cloud Management with Microsoft Intune               | LinkedIn Learning Community |
-| Introduction to Microsoft Exchange Online            | LinkedIn Learning Community |
-| Microsoft 365: Administration                        | LinkedIn Learning Community |
-| Microsoft 365 Administration Training                | Udemy                       |
-| Microsoft Intune for Apple macOS Training            | Udemy                       |
-| Microsoft Office 365 Administration                  | Udemy                       |
-| SharePoint Admin and Site Owner: Comprehensive Guide | Udemy                       |
-| The Ubuntu Linux Desktop User Guide                  | Udemy                       |
+| Credential                                              | Institution                                 |
+|--------------------------------------------------------|--------------------------------------------|
+| Information Technology Operations Professional Certificate | Vancouver Community College                 |
+| Diploma in Business Computing                           | Capilano University                         |
+| Diploma in Hispanic Studies                             | University of Granada, Spain                |
+| Diploma in Management Studies                            | Thompson Rivers University                  |
+| Ethical Hacking Course                                   | British Columbia Institute of Technology   |
+| Network Defense Essentials Course                        | British Columbia Institute of Technology   |
 
 ---
 ### Work Experience
@@ -85,18 +59,6 @@ The First Nations School Connectivity Project is aimed at leveraging Broadband I
 
 #### WAN/LAN Optimization First Nations Schools (_October 2019 - November 2021_)
 WAN/LAN optimization is a set of techniques and technologies that improve data transfer and performance across Wide Area Networks (WANS) and Local Area Networks (LANs). This process is used to overcome the adverse effects of latency, bandwidth limitations, and packet loss. It is especially useful for First Nation schools, where Internet bandwidth is limited.
-
----
-### [IT Help Desk Guides](it-guides.md)
-
-As a System Administrator experienced across Windows, macOS, and Linux environments, I have spent the past few years creating user-friendly guides to support new hires, help desk staff, and hobbyists exploring technology for the first time. I am passionate about empowering users through clear guidance and technical training. I hope these IT guides become a helpful starting point on your journey. 
-
----
-#### Notes
-
-- All guides are meant for **educational purposes**.  
-- Use commands carefully; incorrect actions may cause data loss or service disruption.  
-- Always back up important data and consult IT professionals if unsure.
 
 ---
 ### Connect with Me
