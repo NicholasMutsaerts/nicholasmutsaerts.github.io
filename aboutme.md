@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Nicholas Mutsaerts"        # override site.title
-description: "Portfolio"  # override site.description
+description: "Microsoft 365 Administration | Tier 2 IT Support | Windows, macOS & Linux"  # override site.description
 
 ---
 [Home](README.md)
