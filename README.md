@@ -1,4 +1,4 @@
-## Welcome to my GitHub website
+Welcome to my GitHub website
 
 This repository serves as a centralized hub for my **System Administration portfolio** and a growing collection of **practical IT guides**. It is designed to showcase real-world experience, technical documentation, and hands-on solutions used in enterprise and small-to-medium IT environments.
 
