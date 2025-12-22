@@ -4,16 +4,15 @@ title: "Nicholas Mutsaerts"        # override site.title
 description: "Microsoft 365 Administration | Tier 2 IT Support | Windows, macOS & Linux"  # override site.description
 ---
 
-[Go to the Home Page]({{ '/' | absolute_url }})
----
-
 System Administrator with 8+ years supporting Microsoft 365, Azure AD/Entra ID, Intune, and hybrid Windows/macOS environments. Skilled in Windows Server, Active Directory, PowerShell, Networking, Security, and A+ hardware. Passionate about solving IT challenges, improving security, and optimizing systems for users.
 
 ---
+
 #### Core Skills
 Microsoft 365 Administration, Windows Server & Active Directory, Windows Desktop Support, PowerShell, Networking & Security (MFA, Conditional Access), A+ Hardware Troubleshooting, Intune Endpoint Management, Technical Documentation & Training
 
 ---
+
 ### Education
 
 | Credential                                              | Institution                                 |
@@ -26,6 +25,7 @@ Microsoft 365 Administration, Windows Server & Active Directory, Windows Desktop
 | Network Defense Essentials Course                        | British Columbia Institute of Technology   |
 
 ---
+
 ### Work Experience
 **ICT System Administrator @ First Nations Education Steering Committee (_May 2021 - Present_)**
 - Administered a hybrid Microsoft 365 and Azure AD/Entra ID infrastructure for 100+ users across Windows and macOS environments.
@@ -48,6 +48,7 @@ Microsoft 365 Administration, Windows Server & Active Directory, Windows Desktop
 - Completed 40 hours of specialized hardware training in Microsoft and Linux environments. 
 
 ---
+
 ### Projects
 #### Connecting Classrooms (_June 2020 - November 2025_)
 Connecting Classrooms is a highly supported online learning approach that enables 25+ First Nations schools in British Columbia to deliver advanced high school courses to over 200 students. Through real-time interactive video conferencing, students and teachers can engage in a virtual environment via Microsoft Teams and Logitech Video Conferencing.
@@ -62,7 +63,11 @@ The First Nations School Connectivity Project is aimed at leveraging Broadband I
 WAN/LAN optimization is a set of techniques and technologies that improve data transfer and performance across Wide Area Networks (WANS) and Local Area Networks (LANs). This process is used to overcome the adverse effects of latency, bandwidth limitations, and packet loss. It is especially useful for First Nation schools, where Internet bandwidth is limited.
 
 ---
+
 ### Connect with Me
 <a href="https://www.linkedin.com/in/nicholasmutsaerts/">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
 </a>
+
+[Go to the Home Page]({{ '/' | absolute_url }})
+---
