@@ -12,7 +12,7 @@ However, not all devices should rely on dynamic IP addresses. **Network printers
 
 1. **Reliable Access:** Users and applications need a consistent IP to connect to printers or servers. A changing IP can lead to failed print jobs or inaccessible network services.  
 2. **Network Services and Routing:** Servers often host services like file sharing, web applications, or databases. Static IPs allow firewall rules, DNS entries, and routing configurations to remain accurate.  
-3. **Simplified Troubleshooting:** A known, fixed IP makes monitoring and troubleshooting network issues faster and more predictable.
+3. **Simplified Troubleshooting:** A known, fixed IP address simplifies network diagnostics, monitoring, and logging. 
 
 In practice, IT administrators often assign static IP addresses either directly on the device or through DHCP reservations, which bind a specific IP to a device’s MAC address. This hybrid approach combines the reliability of static IPs with the centralized management of DHCP.
 
