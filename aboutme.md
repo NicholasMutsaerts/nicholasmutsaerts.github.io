@@ -3,7 +3,6 @@ layout: default
 title: "Nicholas Mutsaerts"        # override site.title
 description: "Microsoft 365 Administration | Tier 2 IT Support | Windows, macOS & Linux"  # override site.description
 ---
-[Go to the Home Page]({{ '/' | absolute_url }})
 
 System Administrator with 8+ years supporting Microsoft 365, Azure AD/Entra ID, Intune, and hybrid Windows/macOS environments. Skilled in Windows Server, Active Directory, PowerShell, Networking, Security, and A+ hardware. Passionate about solving IT challenges, improving security, and optimizing systems for users.
 
@@ -64,3 +63,6 @@ WAN/LAN optimization is a set of techniques and technologies that improve data t
 <a href="https://www.linkedin.com/in/nicholasmutsaerts/">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
 </a>
+
+---
+[Go to the Home Page]({{ '/' | absolute_url }})
