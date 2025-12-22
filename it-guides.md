@@ -58,7 +58,7 @@ These IT Help Desk Guides provide clear, practical support for everyday technica
 - [Windows 11 Cheatsheet](cheatsheet/Windows 11 Cheatsheet.pdf)
 
 #### Disclaimer
-Use Windows 11, macOS, and Linux commands at your own risk. While accuracy is a priority, incorrect administrative actions can cause data loss or service disruption. Always back up important data and consult a qualified IT professional if you are unsure.
+All guides are provided for educational purposes only. Use Windows 11, macOS, and Linux commands at your own risk. While accuracy is a priority, incorrect administrative actions can cause data loss or service disruption. Always back up important data and consult a qualified IT professional if you are unsure.
 
 ---
 ## External Links
