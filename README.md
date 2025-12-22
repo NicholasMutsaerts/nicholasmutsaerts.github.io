@@ -1,4 +1,4 @@
-This repository serves as a centralized hub for my System Administration portfolio and an expanding collection of practical IT documentation and guides. It is intended to showcase real-world experience, technical expertise, and hands-on solutions applied across enterprise and small-to-medium business (SMB) environments.
+This repository serves as a centralized hub for my portfolio and an expanding collection of practical IT documentation and guides. It is intended to showcase real-world experience, technical expertise, and hands-on solutions applied across enterprise and small-to-medium business (SMB) environments.
 
 The content reflects day-to-day operational work, best practices, and documented solutions drawn from professional experience in modern IT environments.
 
