@@ -47,6 +47,7 @@ These IT Help Desk Guides provide clear, practical support for everyday technica
 ### General Guides
 - [Adobe PDF and Alternative PDF Readers](pdf/adobe.pdf)
 - [Best Practices for Effective IT Onboarding: A Guide for New Hires](IT-Onboarding)
+- [Understanding DHCP and the Importance of Static IPs for Printers and Servers](dhcp.md)
 - (More comming soon)
 
 ---
