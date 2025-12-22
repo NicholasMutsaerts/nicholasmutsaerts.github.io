@@ -16,7 +16,7 @@ All guides are provided for educational purposes only. Use commands and procedur
 Always back up critical data before making changes. If you are uncertain about a procedure or its potential impact, consult a qualified IT professional. Be sure to follow organizational policies, security standards, and official vendor documentation.
 
 ---
-### Connect with Me
+#### Connect with Me
 <a href="https://www.linkedin.com/in/nicholasmutsaerts/">
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
 </a>
