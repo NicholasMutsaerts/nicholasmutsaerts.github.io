@@ -1,15 +1,12 @@
 ---
 layout: default
-title: "IT Help Desk Guides"        # override site.title
+title: "IT Technical Support Guides"        # override site.title
 description: "Welcome to my IT knowledge base"  # override site.description
 ---
-[Go to the Home Page]({{ '/' | absolute_url }})
 
 These IT Help Desk Guides provide clear, practical support for everyday technical tasks, drawing on real-world experience across Windows, macOS, Linux, and Microsoft 365. They highlight common issues, step-by-step resolutions, and proven best practices to strengthen troubleshooting skills, build confidence, and streamline support workflows. A well‑structured knowledge base accelerates issue resolution and enhances overall help desk efficiency. These quick‑reference documents will be updated regularly to ensure they remain accurate and relevant.
 
 ---
-## IT Technical Support Guides
-
 ### Windows 11
 - [Common Help Desk fixes](pdf/Windows 11 Essential IT Troublehooting.pdf)
 - [How to change DNS settings (Windows 11)](pdf/How to change DNS settings (Windows 11).pdf)
@@ -93,3 +90,6 @@ As technology continues to evolve at a rapid pace, IT professionals need to stay
 - [Assign Licenses with Group-Based in Microsoft 365](https://lazyadmin.nl/office-365/office-365-assign-license-to-group/)
 - [Best Practice to Secure Office 365](https://lazyadmin.nl/office-365/best-practice-to-secure-office-365/)
 - [The Best PowerShell Cheat Sheet](https://lazyadmin.nl/powershell/powershell-cheat-sheet/)
+
+---
+[Go to the Home Page]({{ '/' | absolute_url }})
