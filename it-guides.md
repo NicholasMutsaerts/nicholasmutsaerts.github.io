@@ -3,12 +3,11 @@ layout: default
 title: "IT Technical Support Guides"        # override site.title
 description: "Welcome to my IT knowledge base"  # override site.description
 ---
-[Go to the Home Page]({{ '/' | absolute_url }})
 
----
 These IT Help Desk Guides provide clear, practical support for everyday technical tasks, drawing on real-world experience across Windows, macOS, Linux, and Microsoft 365. They highlight common issues, step-by-step resolutions, and proven best practices to strengthen troubleshooting skills, build confidence, and streamline support workflows. A well‑structured knowledge base accelerates issue resolution and enhances overall help desk efficiency. These quick‑reference documents will be updated regularly to ensure they remain accurate and relevant.
 
 ---
+
 ### Windows 11
 - [Common Help Desk fixes](pdf/Windows 11 Essential IT Troublehooting.pdf)
 - [How to change DNS settings (Windows 11)](pdf/How to change DNS settings (Windows 11).pdf)
@@ -96,3 +95,7 @@ As technology continues to evolve at a rapid pace, IT professionals need to stay
 ---
 ### Official Microsoft PowerShell Documentation
 [PowerShell](https://learn.microsoft.com/en-us/powershell/) is designed to assist Help Desk Support and Network Administrators to streamline their IT infrastructures. Microsoft provides extensive [online documentation](online documentation) and sample scripts tailored to various use-case scenarios. The official [PowerShell documentation](https://learn.microsoft.com/en-us/powershell/) is an excellent starting point for anyone looking to learn the fundamentals or explore advanced functionalities. [Sample scripts](https://learn.microsoft.com/en-us/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.4) provide a wide collection of practical examples.
+
+--- 
+
+[Go to the Home Page]({{ '/' | absolute_url }})
