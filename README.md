@@ -1,9 +1,9 @@
-This repository serves as a centralized hub for my **System Administration portfolio** and a growing collection of **practical IT guides**. It is designed to showcase real-world experience, technical documentation, and hands-on solutions used in enterprise and small-to-medium IT environments.
+This repository serves as a centralized hub for my System Administration portfolio and an expanding collection of practical IT documentation and guides. It is intended to showcase real-world experience, technical expertise, and hands-on solutions applied across enterprise and small-to-medium business (SMB) environments.
 
-
+The content reflects day-to-day operational work, best practices, and documented solutions drawn from professional experience in modern IT environments.
 
 <div align="center">
-  <h2><strong>What You Will Find Here</strong></h2>
+  <h3><strong>What You Will Find Here</strong></h3>
 </div>
 
 ### [Professional Portfolio](aboutme)
@@ -12,8 +12,11 @@ A detailed overview of projects, implementations, and operational experience dem
 ### [IT Help Desk Guides](it-guides.md)
 Step-by-step documentation covering system administration tasks, troubleshooting procedures, configuration guides, and best practices across **Windows**, **macOS**, **Microsoft 365**, and related technologies. This site is continuously updated as I expand my documentation and refine my portfolio. Each section is maintained in its own Markdown page for clarity, version control, and ease of navigation.
 
+---
 #### Usage & Disclaimer
-All guides are meant for **educational purposes**. Use commands at your own risk. While every effort has been made to ensure the accuracy of this guide, performing administrative tasks incorrectly can lead to issues such as data loss, compliance impacts, or service disruption. Always back up important data before running commands. If you are unsure about any step or its potential consequences, consult a qualified IT professional before proceeding. Be sure to follow organizational policies and vendor documentation
+All guides are provided for educational purposes only. Use commands and procedures at your own risk. While every effort is made to ensure accuracy, incorrect execution of administrative tasks may result in data loss, service disruption, or compliance issues.
+
+Always back up critical data before making changes. If you are uncertain about a procedure or its potential impact, consult a qualified IT professional. Be sure to follow organizational policies, security standards, and official vendor documentation.
 
 ---
 ### Connect with Me
