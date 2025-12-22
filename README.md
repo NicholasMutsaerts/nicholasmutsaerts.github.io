@@ -7,7 +7,7 @@ The content reflects day-to-day operational work, best practices, and documented
 </div>
 
 ### [Professional Portfolio](aboutme)
-A detailed overview of projects, implementations, and operational experience demonstrating my work as a System Administrator, including **infrastructure management**, **endpoint administration**, and **Tier 2 support** responsibilities.
+A detailed overview of projects, implementations, and operational experience demonstrating my work as a System Administrator, with a focus on hybrid **infrastructure management**, **endpoint administration**, and **Tier 2 support** in enterprise and education environments. 
 
 ### [IT Technical Support Guides](it-guides.md)
 The IT Service Desk role requires a balanced blend of technical expertise and strong interpersonal skills to effectively support end users, delivering clear communication, efficient troubleshooting, and a consistently customer-focused experience. This portfolio includes step-by-step documentation for common support workflows, system administration tasks, troubleshooting procedures, and configuration guides across **Windows**, **macOS**, **Microsoft 365** and related technologies. All content is continuously maintained in structured Markdown pages to support accuracy, version control, and efficient knowledge sharing.
