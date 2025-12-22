@@ -8,4 +8,4 @@ theme: jekyll-theme-cayman
 github:
   is_project_page: false
 
-header_page_refs: ['now', 'about', 'contact']
+header_page_refs: ['home', 'about', 'contact']
