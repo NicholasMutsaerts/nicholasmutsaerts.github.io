@@ -98,4 +98,4 @@ As technology continues to evolve at a rapid pace, IT professionals need to stay
 
 --- 
 
-[Go to the Home Page]({{ '/' | absolute_url }})
+#### [Go to the Home Page]({{ '/' | absolute_url }})
