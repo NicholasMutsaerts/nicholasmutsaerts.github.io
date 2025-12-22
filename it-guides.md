@@ -90,12 +90,13 @@ As technology continues to evolve at a rapid pace, IT professionals need to stay
 ### Microsoft 365 Administration (Lazy Admin Site)
 - [Assign Licenses with Group-Based in Microsoft 365](https://lazyadmin.nl/office-365/office-365-assign-license-to-group/)
 - [Best Practice to Secure Office 365](https://lazyadmin.nl/office-365/best-practice-to-secure-office-365/)
+- [Microsoft Entra Connect – How to Install & Configure](https://lazyadmin.nl/office-365/install-entra-connect/)
 - [The Best PowerShell Cheat Sheet](https://lazyadmin.nl/powershell/powershell-cheat-sheet/)
+- [Set up directory synchronization for Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/enterprise/set-up-directory-synchronization?view=o365-worldwide)
 
 ---
 ### Official Microsoft PowerShell Documentation
 [PowerShell](https://learn.microsoft.com/en-us/powershell/) is designed to assist Help Desk Support and Network Administrators to streamline their IT infrastructures. Microsoft provides extensive [online documentation](online documentation) and sample scripts tailored to various use-case scenarios. The official [PowerShell documentation](https://learn.microsoft.com/en-us/powershell/) is an excellent starting point for anyone looking to learn the fundamentals or explore advanced functionalities. [Sample scripts](https://learn.microsoft.com/en-us/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.4) provide a wide collection of practical examples.
 
 --- 
-
 #### [Go to the Home Page]({{ '/' | absolute_url }})
