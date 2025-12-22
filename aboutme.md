@@ -69,5 +69,7 @@ WAN/LAN optimization is a set of techniques and technologies that improve data t
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="30" height="30" alt="LinkedIn"/>
 </a>
 
+---
 [Go to the Home Page]({{ '/' | absolute_url }})
+
 ---
