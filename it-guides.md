@@ -24,6 +24,8 @@ These IT Technical Support Guides provide clear, practical support for everyday 
 - [Ubuntu Essentials Guide](pdf/Ubuntu Essentials Guide.pdf)
 - [How to troubleshoot networking issues in Linux](pdf/How to troubleshoot networking issues in Linux.pdf)
 - [How to keep your computer secure](pdf/How to keep your computer secure (Linux).pdf)
+- [Step-By-Step guide on how to RDP from Ubuntu to Apple MacBook laptop](pdf/Step-By-Step guide on how to RDP from Ubuntu to Apple MacBook laptop.pdf)
+- [Step-By-Step guide on how to RDP from Ubuntu to Windows 11](pdf/Step-By-Step guide on how to RDP from Ubuntu to Windows 11.pdf)
 - [Understanding File Management in Linux](Windows-11-app-management.md)
 - Virtual lab setup (Coming Soon)
 -  VirtualBox enables safe experimentation with multiple virtual environments, and Ubuntu offers a [walkthrough guide on creating an Ubuntu](https://ubuntu.com/tutorials/how-to-run-ubuntu-desktop-on-a-virtual-machine-using-virtualbox#1-overview) desktop virtual machine.
