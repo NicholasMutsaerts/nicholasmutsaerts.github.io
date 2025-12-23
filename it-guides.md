@@ -110,5 +110,4 @@ Your support helps me:
 
 --- 
 
-#### [IT Technical Support Guides](it-guides.md)
 #### [Go to the Home Page]({{ '/' | absolute_url }})
