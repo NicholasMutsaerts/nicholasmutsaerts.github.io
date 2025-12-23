@@ -66,5 +66,6 @@ winget upgrade <appname>
 ```powershell
 winget upgrade --all
 
----
-[Go to the Home Page]({{ '/' | absolute_url }})
+--- 
+#### [IT Technical Support Guides](it-guides.md)
+#### [Go to the Home Page]({{ '/' | absolute_url }})
