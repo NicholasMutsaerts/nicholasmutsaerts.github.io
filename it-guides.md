@@ -92,7 +92,8 @@ As technology continues to evolve at a rapid pace, IT professionals need to stay
 [PowerShell](https://learn.microsoft.com/en-us/powershell/) is designed to assist Help Desk Support and Network Administrators to streamline their IT infrastructures. Microsoft provides extensive [online documentation](online documentation) and sample scripts tailored to various use-case scenarios. The official [PowerShell documentation](https://learn.microsoft.com/en-us/powershell/) is an excellent starting point for anyone looking to learn the fundamentals or explore advanced functionalities. [Sample scripts](https://learn.microsoft.com/en-us/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.4) provide a wide collection of practical examples.
 
 ---
-## Support This Project
+### Support This Project
+
 If you find these **IT Technical Support Guides** helpful, consider supporting the project.
 
 Your support helps me:
@@ -100,9 +101,7 @@ Your support helps me:
 - Add new troubleshooting guides and how-to articles
 - Improve clarity, accuracy, and real-world applicability
 
-[Buy Me a Coffee](https://www.buymeacoffee.com/nicholasmug)
-
-Every contribution is greatly appreciated and helps keep this resource growing. Thank you for your support!
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-support-yellow?logo=buymeacoffee)](https://www.buymeacoffee.com/nicholasmug)
 
 --- 
 #### [Go to the Home Page]({{ '/' | absolute_url }})
