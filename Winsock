@@ -4,8 +4,57 @@ title: "IT Technical Support Guides"        # override site.title
 description: "Restoring Windows Network Connectivity with a Winsock Reset"  # override site.description
 ---
 
+Network connectivity issues are a common challenge in Windows environments, particularly after malware removal, VPN changes, or firewall misconfigurations. One of the most effective and widely recommended troubleshooting steps for resolving these issues is performing a **Winsock reset** using the built-in **Netsh** utility.
 
+---
 
+## What Is Netsh and Why Winsock Matters
+
+**Netsh (Network Shell)** is a powerful command-line utility used to configure, manage, and troubleshoot Windows networking components—locally or remotely.
+
+The **Winsock (Windows Sockets) catalog** defines how Windows applications communicate with network services. When this catalog becomes corrupted or misconfigured, systems may experience persistent connectivity issues even when Wi-Fi or Ethernet appears connected.
+
+Running a Winsock reset restores the catalog to its default state, often resolving common network communication failures.
+
+---
+
+## How to Perform a Winsock Reset (Administrator Required)
+
+Open **Command Prompt as Administrator** and run the following commands in order:
+
+```powershell
+netsh winsock reset
+netsh int ip reset
+ipconfig /release
+ipconfig /renew
+ipconfig /flushdns
+
+After completing these steps, restart the computer to ensure all changes take effect.
+If you are already in an elevated command prompt, you can restart immediately using:
+
+**shutdown /r /t 0**
+
+---
+
+## When Should You Use a Winsock Reset?
+
+A Winsock reset is particularly effective in the following scenarios:
+
+- After removing malware or potentially unwanted software
+- When frequent network-related pop-up errors occur
+- During DNS resolution or name lookup failures
+- After uninstalling VPNs, firewalls, or network filtering software
+- When Windows reports **“Limited or No Connectivity”**
+- If releasing and renewing the IP address does not restore access
+- When other devices on the same network have internet access, but the Windows PC does not
+
+For additional guidance, refer to [Microsoft’s official documentation on fixing Wi-Fi and network issues](https://support.microsoft.com/en-us/windows/fix-wi-fi-connection-issues-in-windows-9424a1f7-6a3b-65a6-4d78-7f07eee84d2c?utm_source=chatgpt.com) in Windows.
+
+--- 
+
+## Why This Matters for IT Support Professionals
+
+For IT Help Desk and System Administration roles, understanding and applying tools like Netsh enables faster incident resolution, reduced downtime, and more effective end-user support. Automating these steps can further streamline troubleshooting workflows and improve consistency across support teams.
 
 
 ---
