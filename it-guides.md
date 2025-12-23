@@ -4,7 +4,7 @@ title: "IT Technical Support Guides"        # override site.title
 description: "Welcome to my IT knowledge base"  # override site.description
 ---
 
-These IT Help Desk Guides provide clear, practical support for everyday technical tasks, drawing on real-world experience across Windows, macOS, Linux, and Microsoft 365. They highlight common issues, step-by-step resolutions, and proven best practices to strengthen troubleshooting skills, build confidence, and streamline support workflows. A well‑structured knowledge base accelerates issue resolution and enhances overall help desk efficiency. These quick‑reference documents will be updated regularly to ensure they remain accurate and relevant.
+These IT Technical Support Guides provide clear, practical support for everyday technical tasks, drawing on real-world experience across Windows, macOS, Linux, and Microsoft 365. They highlight common issues, step-by-step resolutions, and proven best practices to strengthen troubleshooting skills, build confidence, and streamline support workflows. A well‑structured knowledge base accelerates issue resolution and enhances overall help desk efficiency. These quick‑reference documents will be updated regularly to ensure they remain accurate and relevant.
 
 ---
 
@@ -88,16 +88,21 @@ As technology continues to evolve at a rapid pace, IT professionals need to stay
 - [Use the Scheduling Assistant and Room Finder for meetings in Outlook](https://support.microsoft.com/en-gb/office/use-the-scheduling-assistant-and-room-finder-for-meetings-in-outlook-2e00ac07-cef1-47c8-9b99-77372434d3fa)
 
 ---
-### Microsoft 365 Administration (Lazy Admin Site)
-- [Assign Licenses with Group-Based in Microsoft 365](https://lazyadmin.nl/office-365/office-365-assign-license-to-group/)
-- [Best Practice to Secure Office 365](https://lazyadmin.nl/office-365/best-practice-to-secure-office-365/)
-- [Microsoft Entra Connect – How to Install & Configure](https://lazyadmin.nl/office-365/install-entra-connect/)
-- [The Best PowerShell Cheat Sheet](https://lazyadmin.nl/powershell/powershell-cheat-sheet/)
-- [Set up directory synchronization for Microsoft 365](https://learn.microsoft.com/en-us/microsoft-365/enterprise/set-up-directory-synchronization?view=o365-worldwide)
-
----
 ### Official Microsoft PowerShell Documentation
 [PowerShell](https://learn.microsoft.com/en-us/powershell/) is designed to assist Help Desk Support and Network Administrators to streamline their IT infrastructures. Microsoft provides extensive [online documentation](online documentation) and sample scripts tailored to various use-case scenarios. The official [PowerShell documentation](https://learn.microsoft.com/en-us/powershell/) is an excellent starting point for anyone looking to learn the fundamentals or explore advanced functionalities. [Sample scripts](https://learn.microsoft.com/en-us/powershell/scripting/samples/sample-scripts-for-administration?view=powershell-7.4) provide a wide collection of practical examples.
+
+---
+## Support This Project
+If you find these **IT Technical Support Guides** helpful, consider supporting the project.
+
+Your support helps me:
+- Maintain and update technical documentation
+- Add new troubleshooting guides and how-to articles
+- Improve clarity, accuracy, and real-world applicability
+
+[Buy Me a Coffee](https://www.buymeacoffee.com/nicholasmug)
+
+Every contribution is greatly appreciated and helps keep this resource growing. Thank you for your support!
 
 --- 
 #### [Go to the Home Page]({{ '/' | absolute_url }})
