@@ -1,0 +1,47 @@
+---
+layout: default
+title: "IT Technical Support Guides"        # override site.title
+description: "Defending Against Phishing Attacks"  # override site.description
+---
+
+Phishing attacks have become increasingly sophisticated, using deceptive techniques to steal sensitive information such as passwords, credit card numbers, and personal data. 
+
+To protect both individuals and organizations, it is critical to implement and enforce the following best practices:
+
+•	Verify Email Authenticity: Exercise caution with unsolicited emails that appear to originate from reputable sources. Carefully inspect the sender's email address for inconsistencies or unusual domains.
+•	Avoid Clicking Unknown Links or Attachments: Always hover over hyperlinks to preview their destination. Refrain from engaging with links that look unfamiliar, suspicious, or oddly formatted.
+•	Conduct Regular Employee Cybersecurity Training: Regularly Conduct cybersecurity awareness training to equip employees with the knowledge to identify and appropriately respond to phishing attempts. Include phishing awareness in onboarding for all new hires. For all staff, training should be conducted at least semi-annually—or more often if feasible—to reinforce good security practices.
+•	Enable Multi-Factor Authentication (MFA): Strengthen account security by requiring multiple forms of verification. Even if a password is compromised, MFA significantly reduces the chances of unauthorized access.
+•	Use Anti-Phishing and Endpoint Protection Software: Invest in reputable anti-phishing software to help detect and block malicious threats before they cause harm. Use E-mail filtering tools that automatically screen suspicious messages and quarantine potential threats. Ensure antivirus and antimalware tools are active and updated across all devices.
+•	Be Cautious of Urgent or Unusual Requests: Phishing schemes often rely on creating a false sense of urgency. Always verify the legitimacy of requests involving sensitive actions such as financial transactions or account changes.
+•	Leverage Email Security Features. Teach employees on how to block suspicious senders, mark emails as junk, and use filtering tools within their email software. This empowers them to take proactive steps in managing potential threats.
+•	Keep Systems and Software Updated. Outdated software can contain vulnerabilities that phishing campaigns exploit. Keep operating systems up-to-date and enable automatic updates. 
+
+By combining smart tools with informed behavior, individuals and organizations can dramatically reduce their exposure to these threats. Staying ahead of cybercriminals requires continuous vigilance, regular training, and a proactive security culture.
+
+---
+### External References
+
+For additional resources on blocking senders and marking emails as junk in popular email software applications:
+
+### Microsoft Outlook on the Web
+- [Block senders and mark email as junk](https://support.microsoft.com/en-us/office/block-senders-or-mark-email-as-junk-in-outlook-com-or-outlook-on-the-web-a3ece97b-82f8-4a5e-9ac3-e92fa6427ae4) 
+- [Phishing and suspicious behaviour](https://support.microsoft.com/en-us/office/phishing-and-suspicious-behavior-0d882ea5-eedc-4bed-aebc-079ffa1105a3)
+- [Safe Senders](https://support.microsoft.com/en-us/office/safe-senders-in-outlook-com-470d4ee6-e3b6-402b-8cd9-a6f00eda7339)
+
+### Thunderbird Email Application
+- [Scam Detection](https://support.mozilla.org/en-US/kb/thunderbirds-scam-detection#:~:text=Thunderbird%27s%20automatic%20scam%20filtering,-Thunderbird%20uses%20its&text=Links%20where%20the%20text%20doesn,into%20going%20to%20their%20site.)
+- [Junk / Spam Messages](https://support.mozilla.org/en-US/kb/thunderbird-and-junk-spam-messages)
+- [Organize your messages by using filters](https://support.mozilla.org/en-US/kb/organize-your-messages-using-filters#w_create-a-new-filter)  
+
+### Gmail
+- [Block or unblock an email address](https://support.google.com/mail/answer/8151?hl=en&co=GENIE.Platform%3DDesktop)  
+- [Avoid and report phishing emails](https://support.google.com/mail/answer/8253?hl=en&sjid=12246734777189826003-NC)
+- [Organize and archive email](https://support.google.com/mail/answer/9259770?hl=en&sjid=12246734777189826003-NC#zippy=%2Clearn-how)
+
+--- 
+
+#### [Go to the Home Page]({{ '/' | absolute_url }})
+
+
+
