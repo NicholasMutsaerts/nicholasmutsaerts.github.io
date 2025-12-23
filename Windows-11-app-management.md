@@ -2,8 +2,6 @@
 layout: default
 title: "IT Help Desk Guides"        # override site.title
 description: "Streamlining Windows 11 Application Management"  # override site.description
----
-[Go to the Home Page]({{ '/' | absolute_url }})
 
 ---
 Every IT professional knows the challenges of rebuilding a system or configuring a new device. Outdated software remains one of the most common attack vectors for malware, making automation essential.
@@ -44,7 +42,6 @@ The Windows Package Manager (**winget**) is a powerful command-line tool for man
 Below is a quick guide to the basic commands used in Terminal, Command Prompt, or PowerShell (run as administrator).
 
 ### Show all installed applications
-```powershell
 winget list
 
 ### To search for application, use: 		
@@ -69,6 +66,5 @@ winget upgrade <appname>
 ```powershell
 winget upgrade --all
 
-
-
-
+---
+[Go to the Home Page]({{ '/' | absolute_url }})
