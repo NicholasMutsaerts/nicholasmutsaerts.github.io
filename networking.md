@@ -102,3 +102,7 @@ ping google.com
 ## Summary
 
 Most Windows 11 networking issues can be resolved by resetting the network adapter, renewing IP settings, and clearing the DNS cache. Built‑in tools such as `ipconfig`, Device Manager, and Windows Network Troubleshooter allow technicians to quickly isolate and resolve connectivity problems.
+
+--- 
+#### [IT Technical Support Guides](it-guides.md)
+#### [Go to the Home Page]({{ '/' | absolute_url }})
