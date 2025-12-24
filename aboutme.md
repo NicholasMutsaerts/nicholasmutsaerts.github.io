@@ -47,12 +47,14 @@ Microsoft 365 Administration, Windows Server & Active Directory, Windows Desktop
 ---
 
 ### Udemy
+
 | Course | Institution |
 |--------|-------------|
 | Microsoft Intune for Apple macOS Training | Udemy |
 | Microsoft Office 365 Administration | Udemy |
 | SharePoint Admin and Site Owner: Comprehensive Guide | Udemy |
 | The Ubuntu Linux Desktop User Guide | Udemy |
+
 
 ---
 
