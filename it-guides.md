@@ -64,10 +64,6 @@ These IT Technical Support Guides provide clear, practical support for everyday 
 All guides are provided for educational purposes only. Use Windows 11, macOS, and Linux commands at your own risk. While accuracy is a priority, incorrect administrative actions can cause data loss or service disruption. Always back up important data and consult a qualified IT professional if you are unsure.
 
 ---
-## External Links
-As technology continues to evolve at a rapid pace, IT professionals need to stay up-to-date on the latest tools, resources, and best practices. This collection of external links is designed to serve as a go-to reference for IT professionals seeking to expand their knowledge and expertise. Each link offers a unique perspective or solution that can be applied in real-world scenarios. 
-
----
 ### [External Links](ExternalLinks.md)
 
 With technology advancing faster than ever, IT professionals must continually sharpen their skills and stay informed on emerging tools, resources, and best practices. This curated set of external links serves as a reliable reference point for expanding technical knowledge and practical expertise. Each resource provides valuable insights or solutions that can be applied directly to real-world IT environments.
