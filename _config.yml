@@ -2,9 +2,44 @@
 title: Nicholas Mutsaerts
 description: Microsoft 365 Administration | Tier 2 IT Support | Windows, macOS & Linux
 
-show_downloads: false
-theme: jekyll-theme-cayman
+url: "https://nicholasmutsaerts.github.io"
+baseurl: ""  # Leave empty for user.github.io sites
 
+author:
+  name: "Nicholas Mutsaerts"
+  email: ""  # optional
+  role: "Microsoft 365 Administrator & Tier 2 IT Support Specialist"
+  location: "Vancouver, Canada"
+
+# SEO keywords (helps search engines understand your site)
+keywords:
+  - Microsoft 365 Administration
+  - IT Support Specialist
+  - Tier 2 Help Desk
+  - System Administration
+  - Windows macOS Linux
+  - Troubleshooting Guides
+  - Technical Documentation
+  - Intune
+  - Active Directory
+  - GitHub Pages Portfolio
+
+# Theme
+theme: jekyll-theme-cayman
+show_downloads: false
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# GitHub settings
 github:
   is_project_page: false
 
+# Social preview metadata
+social:
+  name: "Nicholas Mutsaerts"
+  links:
+    - "https://github.com/NicholasMutsaerts"
+    - "https://www.linkedin.com/in/nicholasmutsaerts"
