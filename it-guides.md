@@ -49,7 +49,7 @@ These IT Technical Support Guides provide clear, practical support for everyday 
 
 ### General Guides
 - [Adobe PDF and Alternative PDF Readers](pdf/adobe.pdf)
-- [Best Practices for Effective IT Onboarding: A Guide for New Hires](IT-Onboarding)
+- [Best Practices for Effective IT Onboarding: A Guide for New Hires](IT-Onboarding.md)
 - [Understanding DHCP and the Importance of Static IPs for Printers and Servers](dhcp.md)
 - (More comming soon)
 
