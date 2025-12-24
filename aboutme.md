@@ -16,6 +16,7 @@ Microsoft 365 Administration, Windows Server & Active Directory, Windows Desktop
 ### Education
 
 ## Core Credentials
+
 | Credential | Institution |
 |-----------|-------------|
 | Diploma in Business Computing | Capilano University |
@@ -25,7 +26,8 @@ Microsoft 365 Administration, Windows Server & Active Directory, Windows Desktop
 
 ---
 
-## Cybersecurity Analysis for Network Administrators – Micro‑Credentials
+## Cybersecurity Analysis for Network Administrators – Micro-Credentials
+
 | Course | Institution |
 |--------|-------------|
 | Ethical Hacking | British Columbia Institute of Technology |
@@ -34,12 +36,14 @@ Microsoft 365 Administration, Windows Server & Active Directory, Windows Desktop
 ---
 
 ## LinkedIn Learning Community
+
 | Course | Institution |
 |--------|-------------|
-| Applying ITL 4 Foundation Concepts | LinkedIn Learning |
+| Applying ITIL 4 Foundation Concepts | LinkedIn Learning |
 | Cloud Management with Microsoft Intune | LinkedIn Learning |
 | Introduction to Microsoft Exchange Online | LinkedIn Learning |
 | Microsoft 365: Administration | LinkedIn Learning |
+
 
 ---
 
