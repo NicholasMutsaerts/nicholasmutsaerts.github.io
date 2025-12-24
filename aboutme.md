@@ -15,7 +15,7 @@ Microsoft 365 Administration, Windows Server & Active Directory, Windows Desktop
 
 ### Education
 
-## Core Credentials
+### Core Credentials
 
 | Credential | Institution |
 |-----------|-------------|
@@ -26,7 +26,7 @@ Microsoft 365 Administration, Windows Server & Active Directory, Windows Desktop
 
 ---
 
-## Cybersecurity Analysis for Network Administrators – Micro-Credentials
+### Cybersecurity Analysis for Network Administrators – Micro-Credentials
 
 | Course | Institution |
 |--------|-------------|
@@ -35,7 +35,7 @@ Microsoft 365 Administration, Windows Server & Active Directory, Windows Desktop
 
 ---
 
-## LinkedIn Learning Community
+### LinkedIn Learning Community
 
 | Course | Institution |
 |--------|-------------|
@@ -44,10 +44,9 @@ Microsoft 365 Administration, Windows Server & Active Directory, Windows Desktop
 | Introduction to Microsoft Exchange Online | LinkedIn Learning |
 | Microsoft 365: Administration | LinkedIn Learning |
 
-
 ---
 
-## Udemy
+### Udemy
 | Course | Institution |
 |--------|-------------|
 | Microsoft Intune for Apple macOS Training | Udemy |
