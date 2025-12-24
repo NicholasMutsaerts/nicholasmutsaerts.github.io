@@ -15,14 +15,41 @@ Microsoft 365 Administration, Windows Server & Active Directory, Windows Desktop
 
 ### Education
 
-| Credential                                              | Institution                                 |
-|--------------------------------------------------------|--------------------------------------------|
-| Information Technology Operations Professional Certificate | Vancouver Community College                 |
-| Diploma in Business Computing                           | Capilano University                         |
-| Diploma in Hispanic Studies                             | University of Granada, Spain                |
-| Diploma in Management Studies                            | Thompson Rivers University                  |
-| Ethical Hacking Course                                   | British Columbia Institute of Technology   |
-| Network Defense Essentials Course                        | British Columbia Institute of Technology   |
+## Core Credentials
+| Credential | Institution |
+|-----------|-------------|
+| Diploma in Business Computing | Capilano University |
+| Diploma in Hispanic Studies | University of Granada, Spain |
+| Diploma in Management Studies | Thompson Rivers University |
+| Information Technology Operations Professional Certificate | Vancouver Community College |
+
+---
+
+## Cybersecurity Analysis for Network Administrators – Micro‑Credentials
+| Course | Institution |
+|--------|-------------|
+| Ethical Hacking | British Columbia Institute of Technology |
+| Network Defense Essentials | British Columbia Institute of Technology |
+
+---
+
+## LinkedIn Learning Community
+| Course | Institution |
+|--------|-------------|
+| Applying ITL 4 Foundation Concepts | LinkedIn Learning |
+| Cloud Management with Microsoft Intune | LinkedIn Learning |
+| Introduction to Microsoft Exchange Online | LinkedIn Learning |
+| Microsoft 365: Administration | LinkedIn Learning |
+
+---
+
+## Udemy
+| Course | Institution |
+|--------|-------------|
+| Microsoft Intune for Apple macOS Training | Udemy |
+| Microsoft Office 365 Administration | Udemy |
+| SharePoint Admin and Site Owner: Comprehensive Guide | Udemy |
+| The Ubuntu Linux Desktop User Guide | Udemy |
 
 ---
 
