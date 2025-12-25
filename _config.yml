@@ -5,6 +5,8 @@ description: Microsoft 365 Administration | Tier 2 IT Support | Windows, macOS &
 url: "https://nicholasmutsaerts.github.io"
 baseurl: ""  # Leave empty for user.github.io sites
 
+google_analytics: G-516853147
+
 author:
   name: "Nicholas Mutsaerts"
   email: ""  # optional
@@ -42,4 +44,4 @@ social:
   name: "Nicholas Mutsaerts"
   links:
     - "https://github.com/NicholasMutsaerts"
-    - "https://www.linkedin.com/in/nicholasmutsaerts"
+    - - "https://www.linkedin.com/in/nicholasmutsaerts"
