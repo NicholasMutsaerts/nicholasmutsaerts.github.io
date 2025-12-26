@@ -3,7 +3,7 @@ This repository serves as a centralized hub for my portfolio and an expanding co
 The content reflects day-to-day operational work, best practices, and documented solutions drawn from professional experience in modern IT environments.
 
 ---
-### [Professional Portfolio](aboutme)
+### [Professional Portfolio](https://nicholasmutsaerts.github.io/portfolio)
 A detailed overview of projects, implementations, and operational experience demonstrating my work as a System Administrator, with a focus on hybrid **infrastructure management**, **endpoint administration**, and **Tier 2 support** in enterprise and education environments. 
 
 ---
