@@ -56,6 +56,11 @@ IT professional with **8+ years of experience** delivering **Tier 1 and Tier 2 t
 
 
 ### Work Experience
+**IT Support Technician @ Corix (_March 2026 - Present)**
+- Administered Microsoft 365 (Exchange Online, SharePoint, Teams). Managed Active Directory accounts, Group Policy, permissions, and password resets.
+- Delivered Tier 1–2 IT support for devices and resolved hardware, software, and network issues via ticketing systems.
+- Documented processes and created user training materials to improve IT service delivery.
+
 **ICT System Administrator @ First Nations Education Steering Committee (_May 2021 - November 2025)**
 - Administered a hybrid Microsoft 365 and Azure AD/Entra ID infrastructure for 100+ users across Windows and macOS environments.
 - Assisted with network operations, including Fortinet firewall configuration, VPN management, and security monitoring using Field Effect, contributing to faster threat detection and improved network resilience.
