@@ -3,7 +3,7 @@ logo: /images/headshot_circle.png
 description: System Administrator | Microsoft 365 Administration | Windows, macOS & Linux | Tier 2 IT Support | End-User Training
 
 #description: Theme
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 show_downloads: false
 
 # GitHub settings
