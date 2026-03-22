@@ -1,5 +1,3 @@
-# Nicholas Mutsaerts Portfolio
-
 IT professional with **8+ years of experience** delivering **Tier 1 and Tier 2 technical support** in Windows 11, macOS, and Microsoft 365 environments. Proven ability to provide **deskside and remote support, incident triage, user account administration, hardware/peripheral troubleshooting**, and resolve incidents efficiently using **ticketing systems (HappyFox)**. Proficient in **Microsoft 365 Administration** and **Active Directory**. Recognized for clear communication, strong documentation, and high first-contact resolution rates in fast-paced, on-site environments.
 
 ---
