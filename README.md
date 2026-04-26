@@ -1,4 +1,4 @@
-IT professional with **8+ years of experience** delivering **Tier 1 and Tier 2 technical support** in Windows 11, macOS, and Microsoft 365 environments. Proven ability to provide **deskside and remote support, incident triage, user account administration, hardware/peripheral troubleshooting**, and resolve incidents efficiently using **ticketing systems (HappyFox)**. Proficient in **Microsoft 365 Administration** and **Active Directory**. Recognized for clear communication, strong documentation, and high first-contact resolution rates in fast-paced, on-site environments.
+IT Support Specialist with **8+ years of experience** delivering **Tier 1 and Tier 2 technical support** across Windows 11, macOS, and Microsoft 365 environments. Experienced in **deskside and remote support, incident triage, user account administration,** and **hardware/peripheral troubleshooting**, resolving incidents efficiently using ticketing systems, such as TOPdesk. Strong background in Microsoft 365 Administration. Recognized for **high first contact resolution**, strong documentation, and effective collaboration with technical and non technical stakeholders.
 
 ---
 
