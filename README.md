@@ -15,7 +15,7 @@ IT Support Specialist with **8+ years of experience** delivering **Tier 1 and Ti
 --- 
 
 ### Work Experience
-**IT Support Technician @ Corix (_March 2026 - Present)**
+**IT Support Technician @ Corix (March 2026 - Present)**
 - Administer Microsoft 365 and Microsoft Entra ID for 100+ users, managing identity lifecycle, licensing, and Conditional Access/MFA policies to strengthen security posture.
 - Provide Tier 1–2 technical support for end‑user devices and Microsoft 365 services, resolving hardware, software, and access issues through ConnectWise and TOPdesk, achieving a 95% ticket resolution rate. 
 - Create and maintain technical documentation and user training materials, improving onboarding, knowledge sharing, and IT service efficiency.
@@ -29,13 +29,13 @@ IT Support Specialist with **8+ years of experience** delivering **Tier 1 and Ti
 - Managed Intune compliance policies, identity lifecycles, device provisioning, and licensing, reducing configuration drift and security gaps.
 - Supported and optimized 25+ network printers (Brother, Xerox) with proactive monitoring and driver updates, decreasing printer-related downtime by 30%.
 
-**Regional IT Support Specialist @ First Nations Education Steering Committee (October 2019 - May 2021_)**
+**Regional IT Support Specialist @ First Nations Education Steering Committee (October 2019 - May 2021)**
 - Delivered end-user training for 100+ educators and staff on Microsoft 365 and collaboration tools, enhancing digital literacy and productivity.
 - Developed and maintained a centralized IT knowledge base, reducing repeat support requests by 35%.
 - Provided technical support and maintenance for 30+ school networks, improving reliability and minimizing service disruptions.
 - Supported and administered Microsoft 365 applications (Teams, SharePoint, OneDrive, Outlook) for 100+ users, improving collaboration reliability and reducing access-related incidents by 25%.
 
-**Hardware Technician @ BC Technology for Learning Society (October 2019 - May 2021_)**
+**Hardware Technician @ BC Technology for Learning Society (October 2019 - May 2021)**
 - Refurbished, imaged, and deployed 300+ desktop and laptop systems for community reuse programs.
 - Achieved 95% first-time resolution of hardware, imaging, and OS deployment issues.
 - Installed and configured Windows operating systems using standardized imaging and deployment tools.
