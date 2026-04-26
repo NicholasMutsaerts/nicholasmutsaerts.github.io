@@ -54,9 +54,10 @@ IT professional with **8+ years of experience** delivering **Tier 1 and Tier 2 t
 
 ### Work Experience
 **IT Support Technician @ Corix (_March 2026 - Present)**
-- Administered Microsoft 365 (Exchange Online, SharePoint, Teams). Managed Active Directory accounts, Group Policy, permissions, and password resets.
-- Delivered Tier 1–2 IT support for devices and resolved hardware, software, and network issues via ticketing systems.
-- Documented processes and created user training materials to improve IT service delivery.
+- Administer Microsoft 365 and Microsoft Entra ID for 100+ users, managing identities, licensing, and Conditional Access/MFA to improve security and access reliability.
+- Provide Tier 1–2 end‑user support across hardware, software, and Microsoft 365, resolving incidents and requests efficiently via ConnectWise and TOPdesk, achieving a 95% ticket resolution rate.
+- Documented IT processes and created user training materials to enhance knowledge sharing, streamline onboarding, and improve service delivery.
+- Manage IT asset inventory and end-to-end device lifecycle, including procurement, configuration, deployment, and secure decommissioning.
 
 **ICT System Administrator @ First Nations Education Steering Committee (_May 2021 - November 2025)**
 - Administered a hybrid Microsoft 365 and Azure AD/Entra ID infrastructure for 100+ users across Windows and macOS environments.
