@@ -12,6 +12,35 @@ IT professional with **8+ years of experience** delivering **Tier 1 and Tier 2 t
 - **Documentation & Training** (Knowledge Base, End-User Training, IT Manuals, Technical Writing)
 - **Soft Skills** (Customer Service Excellence, Clear Technical Communication, Time Management)
 
+--- 
+
+### Work Experience
+**IT Support Technician @ Corix (_March 2026 - Present)**
+- Administer Microsoft 365 and Microsoft Entra ID for 100+ users, managing identities, licensing, and Conditional Access/MFA to improve security and access reliability.
+- Provide Tier 1–2 end‑user support across hardware, software, and Microsoft 365, resolving incidents and requests efficiently via ConnectWise and TOPdesk, achieving a 95% ticket resolution rate.
+- Documented IT processes and created user training materials to enhance knowledge sharing, streamline onboarding, and improve service delivery.
+- Manage IT asset inventory and end-to-end device lifecycle, including procurement, configuration, deployment, and secure decommissioning.
+
+**ICT System Administrator @ First Nations Education Steering Committee (May 2021 - November 2025)**
+- Administered a hybrid Microsoft 365 and Azure AD/Entra ID infrastructure for 100+ users across Windows and macOS environments.
+- Assisted with network operations, including Fortinet firewall configuration, VPN management, and security monitoring using Field Effect, contributing to faster threat detection and improved network resilience.
+- Delivered Tier 2 technical support through ConnectWise and HappyFox, achieving a 95% ticket resolution rate and ensuring reliable network access via FortiGate VPN.
+- Developed end-user training and documentation for Microsoft 365 and collaboration tools, boosting adoption and reducing recurring support requests by 30%.
+- Managed Intune compliance policies, identity lifecycles, device provisioning, and licensing, reducing configuration drift and security gaps.
+- Supported and optimized 25+ network printers (Brother, Xerox) with proactive monitoring and driver updates, decreasing printer-related downtime by 30%.
+
+**Regional IT Support Specialist @ First Nations Education Steering Committee (October 2019 - May 2021_)**
+- Delivered end-user training for 100+ educators and staff on Microsoft 365 and collaboration tools, enhancing digital literacy and productivity.
+- Developed and maintained a centralized IT knowledge base, reducing repeat support requests by 35%.
+- Provided technical support and maintenance for 30+ school networks, improving reliability and minimizing service disruptions.
+- Supported and administered Microsoft 365 applications (Teams, SharePoint, OneDrive, Outlook) for 100+ users, improving collaboration reliability and reducing access-related incidents by 25%.
+
+**Hardware Technician @ BC Technology for Learning Society (October 2019 - May 2021_)**
+- Refurbished, imaged, and deployed 300+ desktop and laptop systems for community reuse programs.
+- Achieved 95% first-time resolution of hardware, imaging, and OS deployment issues.
+- Installed and configured Windows operating systems using standardized imaging and deployment tools.
+- Completed 40 hours of specialized hardware training in Microsoft and Linux environments. 
+
 ---
 
 ### Education
@@ -50,34 +79,6 @@ IT professional with **8+ years of experience** delivering **Tier 1 and Tier 2 t
 | Microsoft Office 365 Administration | Udemy |
 | SharePoint Admin and Site Owner: Comprehensive Guide | Udemy |
 | The Ubuntu Linux Desktop User Guide | Udemy |
-
-
-### Work Experience
-**IT Support Technician @ Corix (_March 2026 - Present)**
-- Administer Microsoft 365 and Microsoft Entra ID for 100+ users, managing identities, licensing, and Conditional Access/MFA to improve security and access reliability.
-- Provide Tier 1–2 end‑user support across hardware, software, and Microsoft 365, resolving incidents and requests efficiently via ConnectWise and TOPdesk, achieving a 95% ticket resolution rate.
-- Documented IT processes and created user training materials to enhance knowledge sharing, streamline onboarding, and improve service delivery.
-- Manage IT asset inventory and end-to-end device lifecycle, including procurement, configuration, deployment, and secure decommissioning.
-
-**ICT System Administrator @ First Nations Education Steering Committee (May 2021 - November 2025)**
-- Administered a hybrid Microsoft 365 and Azure AD/Entra ID infrastructure for 100+ users across Windows and macOS environments.
-- Assisted with network operations, including Fortinet firewall configuration, VPN management, and security monitoring using Field Effect, contributing to faster threat detection and improved network resilience.
-- Delivered Tier 2 technical support through ConnectWise and HappyFox, achieving a 95% ticket resolution rate and ensuring reliable network access via FortiGate VPN.
-- Developed end-user training and documentation for Microsoft 365 and collaboration tools, boosting adoption and reducing recurring support requests by 30%.
-- Managed Intune compliance policies, identity lifecycles, device provisioning, and licensing, reducing configuration drift and security gaps.
-- Supported and optimized 25+ network printers (Brother, Xerox) with proactive monitoring and driver updates, decreasing printer-related downtime by 30%.
-
-**Regional IT Support Specialist @ First Nations Education Steering Committee (October 2019 - May 2021_)**
-- Delivered end-user training for 100+ educators and staff on Microsoft 365 and collaboration tools, enhancing digital literacy and productivity.
-- Developed and maintained a centralized IT knowledge base, reducing repeat support requests by 35%.
-- Provided technical support and maintenance for 30+ school networks, improving reliability and minimizing service disruptions.
-- Supported and administered Microsoft 365 applications (Teams, SharePoint, OneDrive, Outlook) for 100+ users, improving collaboration reliability and reducing access-related incidents by 25%.
-
-**Hardware Technician @ BC Technology for Learning Society (October 2019 - May 2021_)**
-- Refurbished, imaged, and deployed 300+ desktop and laptop systems for community reuse programs.
-- Achieved 95% first-time resolution of hardware, imaging, and OS deployment issues.
-- Installed and configured Windows operating systems using standardized imaging and deployment tools.
-- Completed 40 hours of specialized hardware training in Microsoft and Linux environments. 
 
 ---
 
