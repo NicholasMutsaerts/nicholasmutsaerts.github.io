@@ -8,7 +8,7 @@ IT Support Specialist with **8+ years of experience** delivering **Tier 1 and Ti
 - **Endpoint Management** (Microsoft Intune, Windows Autopilot, Patch & Update Management
 -	**Hardware & OS Troubleshooting** (Windows 11, macOS, Microsoft 365 (Outlook, Exchange, Teams, OneDrive)
 - **Networking & Security Fundamentals** (VPN, Firewalls)  
-- **Ticketing & Documentation** (HappyFox Ticketing System, ConnectWise, Incident Documentation)
+- **Ticketing & Documentation** (Topdesk Ticketing System, ConnectWise, Incident Documentation)
 - **Documentation & Training** (Knowledge Base, End-User Training, IT Manuals, Technical Writing)
 - **Soft Skills** (Customer Service Excellence, Clear Technical Communication, Time Management)
 
@@ -20,7 +20,7 @@ IT Support Specialist with **8+ years of experience** delivering **Tier 1 and Ti
 - Deliver Tier 1–2 IT support, resolving 20–40+ weekly tickets across hardware, software, and Microsoft 365 environments using ConnectWise and TOPdesk, achieving a 95% resolution rate and maintaining strong SLA compliance.
 - Create and maintain technical documentation and user training materials, improving onboarding, knowledge sharing, and IT service efficiency.
 - Maintained and tracked full IT asset lifecycle for 100+ endpoints (procurement, imaging, deployment, and secure decommissioning), enhancing inventory accuracy and audit readiness.
-- Developed and maintained technical documentation and end-user training materials, improving onboarding efficiency, knowledge sharing, and reducing support dependency through enhanced self-service capabilities.
+- Created and maintained 20+ technical knowledge base articles, standard operating procedures (SOPs), and end-user training guides, improving onboarding and support efficiency.
 
 **ICT System Administrator @ First Nations Education Steering Committee (May 2021 - November 2025)**
 - Administered a hybrid Microsoft 365 and Azure AD/Entra ID infrastructure for 100+ users across Windows and macOS environments.
